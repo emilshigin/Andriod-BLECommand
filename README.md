@@ -54,4 +54,4 @@ It allows engineers and technicians to send configuration commands, test respons
 ---
 
 ⚠️ *This repository contains internal project documentation and demonstration media for professional portfolio purposes only.  
-All proprietary source code remains the property of Micro Medical Devices.*
+All proprietary source code remains the property of Micro Medical Devices & Emil D. Shigin.*
